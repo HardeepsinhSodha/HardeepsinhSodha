@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HardeepsinhSodha
 - 👀 I’m interested in android and ISO app development for normal use cases.
-- 🌱 I’m currently learning Fluter
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Django and Fluter projects, any type.
 - 📫 Drop mail to my gmail Hardeepsinhsodha99@gmail.com
 
